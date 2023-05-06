@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Enamorado112
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Js.
+- 🌱 I’m currently learning Css., Js.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on Twitter @karma_rebounce
 
