@@ -1,0 +1,113 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  background: linear-gradient(
+    to right,
+    rgb(223, 223, 0),
+    rgba(223, 223, 0, 0.4)
+  );
+  margin: 0;
+  padding: 0;
+  height: 100;
+  width: 100;
+}
+h1 {
+  color: red;
+  font-size: 30px;
+}
+span {
+  color: blue;
+}
+nav {
+  display: flex;
+  justify-self: center;
+  align-items: center;
+  box-sizing: border-box;
+  justify-content: space-between;
+  padding-top: 45px;
+  padding-right: 8%;
+  padding-left: 8%;
+}
+li {
+  display: inline-block;
+  padding-right: 10px;
+  justify-content: space-between;
+  font-size: 20px;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+  background-color: #0000ff;
+  padding: 10px;
+  border-radius: 10px;
+}
+li a:hover {
+  color: red;
+}
+.me {
+  color: red;
+}
+.about {
+  width: 100%;
+  padding: 50px 0px;
+}
+.about img {
+  margin-left: 30px;
+  padding-left: 0;
+}
+.about-text {
+  width: 550px;
+}
+.content {
+  width: 1130px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+h2 {
+  margin-left: 70px;
+  font-size: 30px;
+}
+h5 {
+  color: red;
+  margin-left: 70px;
+}
+p {
+  color: rgb(21, 95, 231);
+  margin-left: 70px;
+}
+.content {
+  justify-content: center;
+  /* margin-top: 100px; */
+  margin-left: -70px;
+}
+
+button {
+  color: #fff;
+  background: red;
+  border: 1px solid black;
+  border-radius: 2rem;
+  width: 100px;
+  height: 30px;
+  text-transform: uppercase;
+  transition: 0.5s ease;
+  margin-left: 70px;
+}
+button:hover {
+  background-color: deepskyblue;
+}
+.contact {
+  margin-top: 40px;
+}
+.btn {
+  background: #0000ff;
+}
+.btn:hover {
+  background: black;
+}
+form {
+  width: 400px;
+  margin-left: 30px;
+  padding-left: 30px;
+}
